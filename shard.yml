@@ -1,0 +1,13 @@
+name: span
+version: 0.1.0
+
+authors:
+  - aquaflamingo <16901597+aquaflamingo@users.noreply.github.com>
+
+targets:
+  span:
+    main: src/span.cr
+
+crystal: 1.4.0
+
+license: MIT
